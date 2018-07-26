@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<families>
+	<family id="1">
+		<mother maiden-name="Ivanova">
+			<name>Kate</name>
+			<surname>Petrova</surname>
+			<age>29</age>
+		</mother>
+		<father>
+			<name>Igor</name>
+			<surname>Petrov</surname>
+			<age>25</age>
+			<military />
+		</father>
+		<children>
+			<child>
+				<name>Dima</name>
+				<surname>Petrov</surname>
+				<age>5</age>
+				<gender>male</gender>
+			</child>
+			<child>
+				<name>Eva</name>
+				<surname>Petrova</surname>
+				<age>7</age>
+				<gender>female</gender>
+			</child>
+		</children>
+	</family>
+
+	<family id ="2">
+		<mother maiden-name="Lebedeva">
+			<name>Sasha</name>
+			<surname>Korolko</surname>
+			<age>31</age>
+		</mother>
+		<father>
+			<name>Jenya</name>
+			<surname>Korolko</surname>
+			<age>38</age>
+			<military />
+		</father>
+		<children>
+			<child>
+				<name>Petya</name>
+				<surname>Korolko</surname>
+				<age>15</age>
+				<gender>male</gender>
+			</child>
+			<child>
+				<name>Mila</name>
+				<surname>Korolko</surname>
+				<age>9</age>
+				<gender>female</gender>
+			</child>
+		</children>
+	</family>
+
+	<family id="3">
+		<mother maiden-name="Klimashevich">
+			<name>Tanya</name>
+			<surname>Bobolia</surname>
+			<age>48</age>
+		</mother>
+		<father>
+			<name>Igor</name>
+			<surname>Bobolia</surname>
+			<age>49</age>
+			<military />
+		</father>
+		<children>
+			<child>
+				<name>Vica</name>
+				<surname>Bobolia</surname>
+				<age>25</age>
+				<gender>female</gender>
+			</child>
+			<child>
+				<name>Ksenia</name>
+				<surname>Bobolia</surname>
+				<age>16</age>
+				<gender>female</gender>
+			</child>
+		</children>
+	</family>
+
+</families>
